@@ -1,1 +1,14 @@
-python=3.11
+name: simple-conda-environment
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - psutil
+  - toolz
+  - matplotlib
+  - dill
+  - pandas
+  - partd
+  - bokeh
+  - dask

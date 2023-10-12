@@ -1,4 +1,4 @@
-name: simple-conda-environment
+name: conda-environment
 channels:
   - conda-forge
 dependencies:
